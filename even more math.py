@@ -1,2 +1,3 @@
 import math
-math.pi
+pi = math.pi
+print(pi)
